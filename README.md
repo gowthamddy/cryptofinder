@@ -1,7 +1,7 @@
 # Cryptocurrency Data Tracker  
 
 ## Overview  
-This project is a simple Python-based tool to track cryptocurrency market data in real-time. It fetches data from the [CoinGecko API](https://www.coingecko.com/en/api), performs analysis, creates visualizations, and updates an Excel file every 5 minutes with the latest insights.  
+This  is a Python-Project to track Top 50 Live cryptocurrency market data in real-time. It fetches data from the [CoinGecko API](https://www.coingecko.com/en/api), performs analysis, creates visualizations, and updates an Excel file every 5 minutes with the latest insights.  
 
 ## How It Works  
 
